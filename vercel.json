@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist/public",
+  "framework": "vite",
+  "env": {
+    "VITE_APP_TITLE": "Portfólio React",
+    "VITE_APP_ID": "portfolio-react"
+  }
+}
